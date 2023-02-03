@@ -25,8 +25,6 @@ int fim_arquivo = 0;
 
 int main() {
 
-    FILE * arq = fopen("2096.in", "r");
-
     while(!fim_arquivo) {
 
         n = 0;
